@@ -65,6 +65,7 @@ export default class Preferences extends React.Component {
             <Option value="1">University of Washington</Option>
             <Option value='2'>Washington State University</Option>
             <Option value="5">University of Washington Bothell</Option>
+            <Option value="6">Western Washington University</Option>
             <Option value="15">Everett Community College</Option>
             <Option value="other">Other</Option>
           </Select>
@@ -79,6 +80,7 @@ export default class Preferences extends React.Component {
             <Option value="4">Art</Option>
             <Option value="2">Computer Science</Option>
             <Option value="3">Math</Option>
+            <Option value="22">Business</Option>
             <Option value="16">Mechanical Engineering</Option>
             <Option value="phl">Philosophy</Option>
           </Select>
